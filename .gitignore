@@ -1,0 +1,7 @@
+.idea/
+*.out
+*.text
+*.txt
+a.out.dSYM/
+cmake-build-debug/
+main.c
